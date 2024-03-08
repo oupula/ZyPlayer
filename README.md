@@ -175,3 +175,22 @@
 | ![历史](https://s2.loli.net/2024/02/29/IN2bE5PHSdgew7l.png) |     ![在追](https://s2.loli.net/2024/02/29/EWryHtxd5TZliO6.png)     |
 
 </details>
+
+
+方法一：基础设置->数据管理->一键配置->软件接口---地址[https://zy.catni.cn/easyconfig.json]->导入
+
+方法二：基础设置->数据管理->配置导入->远端导入---地址[https://zy.catni.cn/config.json]->导入
+
+如导入失败，将域名部分替换成 zy.hiram.top
+
+| 使用方法：
+
+安装软件后，依次点开设置 -> 基础配置 -> 其他 -> 数据管理 -> 一键配置 -> 软件接口然后填入订阅地址，就能正常使用了。
+
+macOS专用接口源:
+接口分享：http://xiaoguozitv.cn/catys/zyplay.json
+
+订阅地址：https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+
+订阅地址：https://raw.kgithub.com/cddehsy/zyjs/main/zy.json
+以上地址选第一个即可，遇到失效了就换！
